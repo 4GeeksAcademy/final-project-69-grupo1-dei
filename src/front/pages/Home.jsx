@@ -46,6 +46,7 @@ export const Home = () => {
 						Loading message from the backend (make sure your python 🐍 backend is running)...
 					</span>
 				)}
+				<h1>Terminada mi feat</h1>
 			</div>
 		</div>
 	);
