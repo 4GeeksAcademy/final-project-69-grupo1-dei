@@ -47,6 +47,7 @@ export const Home = () => {
 					</span>
 				)}
 				<h1>Terminada mi feat</h1>
+				<h2>Hola todo bien</h2>
 			</div>
 		</div>
 	);
